@@ -4,4 +4,4 @@ metadata:
   name: nginx
   namespace: gitops-demo
 spec:
-  replicas: 2
+  replicas: 3
